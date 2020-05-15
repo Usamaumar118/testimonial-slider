@@ -158,11 +158,12 @@ img{
             }
 
             &__btn{
+                display: block;
                 &--prev{
-                    padding-right: 1.5rem;
+                    padding-right: 3.5rem;
 
                 &--next{
-                    padding-left: 1.5rem;
+                    padding-left: 3.5rem;
                 }
             }
         }

@@ -197,11 +197,15 @@ img {
   }
 }
 
+.testimonials__item__btns__btn {
+  display: block;
+}
+
 .testimonials__item__btns__btn--prev {
-  padding-right: 1.5rem;
+  padding-right: 3.5rem;
 }
 
 .testimonials__item__btns__btn--prev--next {
-  padding-left: 1.5rem;
+  padding-left: 3.5rem;
 }
 /*# sourceMappingURL=style.css.map */
